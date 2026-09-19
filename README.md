@@ -1,4 +1,3 @@
-# SportHub-frontend
 # Quy tắc chia nhánh 
 
 * Nhánh main: chứa code final lúc báo cáo. Ko push code trực tiếp lên nhánh này
